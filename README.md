@@ -23,7 +23,7 @@ The DAFE-Core repository is designed for developers, contributors, and stakehold
 
 # DAFE-Core
 
-DAFE-Core is a powerful and flexible framework designed for [insert purpose or functionality of your project here]. This project aims to provide developers with the tools they need to build scalable and efficient applications.
+DAFE-Core is a powerful and flexible framework designed for Decentralized Autonomous Financial Ecosystem ( DAFE ). This project aims to provide developers with the tools they need to build scalable and efficient applications.
 
 ## Features
 
