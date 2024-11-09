@@ -67,6 +67,26 @@
 [![CFA Institute Certificate in ESG Investing](https://img.shields.io/badge/Certificate%20in%20ESG%20Investing-4B0082?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/programs/esg-investing)
 [![CFA Institute Certificate in Quantitative Finance](https://img.shields.io/badge/Certificate%20in%20Quantitative%20Finance-0072B1?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/programs/quantitative-finance)
 
+[![World Bank](https://img.shields.io/badge/World%20Bank-0072B1?style=for-the-badge&logo=worldbank&logoColor=white)](https://www.worldbank.org/)
+[![International Monetary Fund (IMF)](https://img.shields.io/badge/IMF%20International%20Monetary%20Fund-FF4F00?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
+[![OECD](https://img.shields.io/badge/OECD%20Organisation%20for%20Economic%20Co-operation%20and%20Development-00A3E0?style=for-the-badge&logo=oecd&logoColor=white)](https://www.oecd.org/)
+[![Asian Development Bank (ADB)](https://img.shields.io/badge/ADB%20Asian%20Development%20Bank-0072B1?style=for-the-badge&logo=adb&logoColor=white)](https://www.adb.org/)
+[![European Investment Bank (EIB)](https://img.shields.io/badge/EIB%20European%20Investment%20Bank-FFB800?style=for-the-badge&logo=eib&logoColor=white)](https://www.eib.org/)
+[![International Finance Corporation (IFC)](https://img.shields.io/badge/IFC%20International%20Finance%20Corporation-3C3C3D?style=for-the-badge&logo=ifc&logoColor=white)](https://www.ifc.org/)
+[![World Trade Organization (WTO)](https://img.shields.io/badge/WTO%20World%20Trade%20Organization-0072B1?style=for-the-badge&logo=wto&logoColor=white)](https://www.wto.org/)
+[![United Nations Conference on Trade and Development (UNCTAD)](https://img.shields.io/badge/UNCTAD%20United%20Nations%20Conference%20on%20Trade%20and%20Development-FF4F00?style=for-the-badge&logo=unctad&logoColor=white)](https://unctad.org/)
+[![African Development Bank (AfDB)](https://img.shields.io/badge/AfDB%20African%20Development%20Bank-00A3E0?style=for-the-badge&logo=afdb&logoColor=white)](https://www.afdb.org/)
+[![Inter-American Development Bank (IDB)](https://img.shields.io/badge/IDB%20Inter-American%20Development%20Bank-4B0082?style=for-the-badge&logo=idb&logoColor=white)](https://www.iadb.org/)
+[![Financial Stability Board (FSB)](https://img.shields.io/badge/FSB%20Financial%20Stability%20Board-0072B1?style=for-the-badge&logo=fsb&logoColor=white)](https://www.fsb.org/)
+[![Bank for International Settlements (BIS)](https://img.shields.io/badge/BIS%20Bank%20for%20International%20Settlements-FF4F00?style=for-the-badge&logo=bis&logoColor=white)](https://www.bis.org/)
+[![International Fund for Agricultural Development (IFAD)](https://img.shields.io/badge/IFAD%20International%20Fund%20for%20Agricultural%20Development-00A3E0?style=for-the-badge&logo=ifad&logoColor=white)](https://www.ifad.org/)
+[![Global Fund](https://img.shields.io/badge/Global%20Fund-FFB800?style=for-the-badge&logo=globalfund&logoColor=white)](https://www.theglobalfund.org/)
+[![International Development Association (IDA)](https://img.shields.io/badge/IDA%20International%20Development%20Association-3C3C3D?style=for-the-badge&logo=ida&logoColor=white)](https://www.worldbank.org/en/what-we-do/partners/ida)
+[![United Nations Development Programme (UNDP)](https://img.shields.io/badge/UNDP%20United%20Nations%20Development%20Programme-0072B1?style=for-the-badge&logo=undp&logoColor=white)](https://www.undp.org/)
+[![World Health Organization (WHO)](https://img.shields.io/badge/WHO%20World%20Health%20Organization-FF4F00?style=for-the-badge&logo=who&logoColor=white)](https://www.who.int/)
+[![International Labour Organization (ILO)](https://img.shields.io/badge/ILO%20International%20Labour%20Organization-00A3E0?style=for-the-badge&logo=ilo&logoColor=white)](https://www.ilo.org/)
+[![United Nations Children's Fund (UNICEF)](https://img.shields.io/badge/UNICEF%20United%20Nations%20Children's%20Fund-4B0082?style=for-the-badge&logo=unicef&logoColor=white)](https://www.unicef.org/)
+[![Global Bank for Reconstruction and Development (IBRD)](https://img.shields.io/badge/IBRD%20International%20Bank%20for%20Reconstruction%20and%20Development-3C3C3D?style=for-the-badge&logo=ibrd&logoColor=white)](https://www.worldbank.org/en/who-we-are/ibrd)
 
 # DAFE-Core
 The DAFE-Core Git repository is a central hub for the Decentralized Autonomous Financial Ecosystem (DAFE) project. It contains essential code and resources for developing and maintaining the core functionalities of the DAFE platform, including smart contracts, governance mechanisms, and integration tools for various financial services. This repository serves as the foundation for building a decentralized financial ecosystem that aims to revolutionize the cryptocurrency financial system by providing users with control over their assets, enhancing transparency, and eliminating intermediaries.
