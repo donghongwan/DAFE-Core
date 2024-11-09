@@ -1,0 +1,64 @@
+# ci-cd/.github/workflows/ci.yml
+
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - 'feature/*'
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14, 16]  # Test against multiple Node.js versions
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'  # Enable caching for npm dependencies
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm test
+
+      - name: Build application
+        run: npm run build
+
+      - name: Lint code
+        run: npm run lint
+
+      - name: Upload coverage report
+        run: npm run coverage
+        env:
+          CI: true
+
+      - name: Deploy to Production
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: |
+          echo "Deploying to production..."
+          # Add your deployment script here
+          # Example: ./deploy.sh
+
+      - name: Notify on Slack
+        if: always()  # Always notify, regardless of success or failure
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
+          channel: '#your-channel'
+          username: 'GitHub Actions'
+          icon_emoji: ':rocket:'
