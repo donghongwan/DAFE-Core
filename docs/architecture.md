@@ -16,7 +16,7 @@ This document provides an overview of the architecture of the Decentralized Auto
 - **Back-End Framework**: Node.js (or other chosen framework)
 
 ## Diagram
-![Architecture Diagram](path/to/architecture_diagram.png)
+![Architecture Diagram](DAFE.jpeg)
 
 ## Conclusion
 This architecture is designed to ensure scalability, security, and user-friendliness, enabling DAFE to meet the needs of its users effectively.
