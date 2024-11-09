@@ -1,0 +1,48 @@
+# Infrastructure/docker/docker-compose.yml
+
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"  # Map host port 3000 to container port 3000
+    environment:
+      NODE_ENV: production  # Set environment variable for production
+      PORT: 3000            # Set the application port
+    volumes:
+      - .:/usr/src/app  # Mount the current directory to the container (for development)
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Optional: Add a database service (e.g., PostgreSQL)
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: mydatabase
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  # Optional: Add a caching service (e.g., Redis)
+  redis:
+    image: redis:6
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  db_data:
