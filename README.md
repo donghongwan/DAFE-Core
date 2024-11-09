@@ -52,6 +52,21 @@
 [![Certified Blockchain Marketing Professional](https://img.shields.io/badge/Certified%20Blockchain%20Marketing%20Professional-00A3E0?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchain-council.org/certifications/certified-blockchain-marketing-professional/)
 [![Certified Blockchain Game Developer](https://img.shields.io/badge/Certified%20Blockchain%20Game%20Developer-FFB800?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchain-council.org/certifications/certified-blockchain-game-developer/)
 [![Certified Blockchain for Business Professional](https://img.shields.io/badge/Certified%20Blockchain%20for%20Business%20Professional-4B0082?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchain-council.org/certifications/certified-blockchain-for-business-professional/)
+[![Certified Blockchain Professional (CBA)](https://img.shields.io/badge/Certified%20Blockchain%20Professional%20(CBA)-3C3C3D?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.ibf.org.sg/)
+[![CFA Institute](https://img.shields.io/badge/CFA%20Chartered%20Financial%20Analyst-4B0082?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/)
+[![ACCA](https://img.shields.io/badge/ACCA%20Association%20of%20Chartered%20Certified%20Accountants-00A3E0?style=for-the-badge&logo=acc&logoColor=white)](https://www.accaglobal.com/)
+[![CIMA](https://img.shields.io/badge/CIMA%20Chartered%20Institute%20of%20Management%20Accountants-0072B1?style=for-the-badge&logo=cima&logoColor=white)](https://www.cimaglobal.com/)
+[![FRM](https://img.shields.io/badge/FRM%20Financial%20Risk%20Manager-FF4F00?style=for-the-badge&logo=frm&logoColor=white)](https://www.garp.org/frm)
+[![CMA](https://img.shields.io/badge/CMA%20Certified%20Management%20Accountant-FFB800?style=for-the-badge&logo=cma&logoColor=white)](https://www.imanet.org/)
+[![CAIA](https://img.shields.io/badge/CAIA%20Chartered%20Alternative%20Investment%20Analyst-3C3C3D?style=for-the-badge&logo=caia&logoColor=white)](https://caia.org/)
+[![CFA Society](https://img.shields.io/badge/CFA%20Society%20Global-4B0082?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/societies)
+[![AICPA](https://img.shields.io/badge/AICPA%20American%20Institute%20of%20CPAs-0072B1?style=for-the-badge&logo=aicpa&logoColor=white)](https://www.aicpa.org/)
+[![GARP](https://img.shields.io/badge/GARP%20Global%20Association%20of%20Risk%20Professionals-FF4F00?style=for-the-badge&logo=garp&logoColor=white)](https://www.garp.org/)
+[![CFA Institute Investment Foundations](https://img.shields.io/badge/CFA%20Investment%20Foundations-3C3C3D?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/programs/investment-foundations)
+[![IMC](https://img.shields.io/badge/IMC%20Investment%20Management%20Certificate-00A3E0?style=for-the-badge&logo=imc&logoColor=white)](https://www.cisi.org/cisiweb2/cisi-home/qualifications/imc)
+[![CFA Institute Certificate in ESG Investing](https://img.shields.io/badge/Certificate%20in%20ESG%20Investing-4B0082?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/programs/esg-investing)
+[![CFA Institute Certificate in Quantitative Finance](https://img.shields.io/badge/Certificate%20in%20Quantitative%20Finance-0072B1?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/programs/quantitative-finance)
+
 
 # DAFE-Core
 The DAFE-Core Git repository is a central hub for the Decentralized Autonomous Financial Ecosystem (DAFE) project. It contains essential code and resources for developing and maintaining the core functionalities of the DAFE platform, including smart contracts, governance mechanisms, and integration tools for various financial services. This repository serves as the foundation for building a decentralized financial ecosystem that aims to revolutionize the cryptocurrency financial system by providing users with control over their assets, enhancing transparency, and eliminating intermediaries.
