@@ -27,9 +27,11 @@ DAFE-Core is a powerful and flexible framework designed for Decentralized Autono
 
 ## Features
 
-- **Feature 1**: Brief description of feature 1.
-- **Feature 2**: Brief description of feature 2.
-- **Feature 3**: Brief description of feature 3.
+1. **Smart Contracts:** Implementations of decentralized financial contracts that facilitate trustless transactions and automate processes within the ecosystem.
+
+2. **Governance Mechanisms:** Tools and protocols that empower users to participate in decision-making processes, ensuring that the platform evolves according to the community's needs and preferences.
+
+3. **Integration Tools:** APIs and SDKs designed to connect various financial services, enabling seamless interactions between traditional finance and decentralized finance (DeFi) applications.
 
 ## Installation
 
