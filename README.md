@@ -118,6 +118,27 @@
 [![United Nations Conference on Trade and Development (UNCTAD)](https://img.shields.io/badge/UNCTAD%20United%20Nations%20Conference%20on%20Trade%20and%20Development-4B0082?style=for-the-badge&logo=unctad&logoColor=white)](https://unctad.org/)
 [![International Criminal Court (ICC)](https://img.shields.io/badge/ICC%20International%20Criminal%20Court-3C3C3D?style=for-the-badge&logo=icc&logoColor=white)](https://www.icc-cpi.int/)
 
+[![Global Finance Awards](https://img.shields.io/badge/Global%20Finance%20Awards-0072B1?style=for-the-badge&logo=globalfinance&logoColor=white)](https://www.gfmag.com/)
+[![Euromoney Awards for Excellence](https://img.shields.io/badge/Euromoney%20Awards%20for%20Excellence-FF4F00?style=for-the-badge&logo=euromoney&logoColor=white)](https://www.euromoney.com/)
+[![The Banker Awards](https://img.shields.io/badge/The%20Banker%20Awards-00A3E0?style=for-the-badge&logo=thebanker&logoColor=white)](https://www.thebanker.com/)
+[![Finance Asia Awards](https://img.shields.io/badge/FinanceAsia%20Awards-4B0082?style=for-the-badge&logo=financeasia&logoColor=white)](https://www.financeasia.com/)
+[![Global Banking Awards](https://img.shields.io/badge/Global%20Banking%20Awards-3C3C3D?style=for-the-badge&logo=globalbanking&logoColor=white)](https://www.globalbankingawards.com/)
+[![Sustainable Finance Awards](https://img.shields.io/badge/Sustainable%20Finance%20Awards-0072B1?style=for-the-badge&logo=sustainablefinance&logoColor=white)](https://www.sustainablefinanceawards.com/)
+[![IFC Performance Standards](https://img.shields.io/badge/IFC%20Performance%20Standards-FF4F00?style=for-the-badge&logo=ifc&logoColor=white)](https://www.ifc.org/)
+[![Green Bond Awards](https://img.shields.io/badge/Green%20Bond%20Awards-00A3E0?style=for-the-badge&logo=greenbond&logoColor=white)](https://www.greenbondawards.com/)
+[![Financial Times Sustainable Business Awards](https://img.shields.io/badge/Financial%20Times%20Sustainable%20Business%20Awards-4B0082?style=for-the-badge&logo=financialtimes&logoColor=white)](https://www.ft.com/)
+[![World Bank Group's Doing Business Awards](https://img.shields.io/badge/World%20Bank%20Doing%20Business%20Awards-3C3C3D?style=for-the-badge&logo=worldbank&logoColor=white)](https://www.worldbank.org/en/publication/doing-business)
+[![Global Finance Best Bank Awards](https://img.shields.io/badge/Global%20Finance%20Best%20Bank%20Awards-0072B1?style=for-the-badge&logo=globalfinance&logoColor=white)](https://www.gfmag.com/)
+[![The Asset Triple A Awards](https://img.shields.io/badge/The%20Asset%20Triple%20A%20Awards-FF4F00?style=for-the-badge&logo=theasset&logoColor=white)](https://www.theasset.com/)
+[![Citi Innovation Awards](https://img.shields.io/badge/Citi%20Innovation%20Awards-00A3E0?style=for-the-badge&logo=citi&logoColor=white)](https://www.citigroup.com/)
+[![Global Impact Investing Network (GIIN) Awards](https://img.shields.io/badge/GIIN%20Awards-4B0082?style=for-the-badge&logo=giin&logoColor=white)](https://thegiin.org/)
+[![Sustainable Development Goals (SDG) Awards](https://img.shields.io/badge/SDG%20Awards-3C3C3D?style=for-the-badge&logo=sdg&logoColor=white)](https://sdgs.un.org/)
+[![Financial Times Global Executive Awards](https://img.shields.io/badge/Financial%20Times%20Global%20Executive%20Awards-0072B1?style=for-the-badge&logo=financialtimes&logoColor=white)](https://www.ft.com/)
+[![World Economic Forum (WEF) Awards](https://img.shields.io/badge/WEF%20Awards-FF4F00?style=for-the-badge&logo=wef&logoColor=white)](https://www.weforum.org/)
+[![International Finance Awards](https://img.shields.io/badge/International%20Finance%20Awards-00A3E0?style=for-the-badge&logo=internationalfinance&logoColor=white)](https://www.internationalfinance.com/)
+[![Green Finance Awards](https://img.shields.io/badge/Green%20Finance%20Awards-4B0082?style=for-the-badge&logo=greenfinance&logoColor=white)](https://www.greenfinanceawards.com/)
+[![Best Emerging Market Bank Awards](https://img.shields.io/badge/Best%20Emerging%20Market%20Bank%20Awards-3C3C3D?style=for-the-badge&logo=emergingmarkets&logoColor=white)](https://www.emergingmarkets.org/)
+
 # DAFE-Core
 The DAFE-Core Git repository is a central hub for the Decentralized Autonomous Financial Ecosystem (DAFE) project. It contains essential code and resources for developing and maintaining the core functionalities of the DAFE platform, including smart contracts, governance mechanisms, and integration tools for various financial services. This repository serves as the foundation for building a decentralized financial ecosystem that aims to revolutionize the cryptocurrency financial system by providing users with control over their assets, enhancing transparency, and eliminating intermediaries.
 
