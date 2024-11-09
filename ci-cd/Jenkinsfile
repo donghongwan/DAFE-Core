@@ -1,0 +1,106 @@
+// ci-cd/Jenkinsfile
+
+pipeline {
+    agent any
+
+    environment {
+        NODE_VERSION = '16'
+        APP_NAME = 'my-app'
+        DOCKER_IMAGE = "my-docker-repo/${APP_NAME}:latest"
+        SLACK_CHANNEL = '#your-channel'
+        SLACK_WEBHOOK_URL = credentials('slack-webhook-url') // Jenkins credentials for Slack webhook
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git branch: 'main', url: 'https://github.com/yourusername/your-repo.git'
+            }
+        }
+
+        stage('Install Dependencies') {
+            steps {
+                script {
+                    sh "nvm install ${NODE_VERSION}"
+                    sh "npm install"
+                }
+            }
+        }
+
+        stage('Run Tests') {
+            steps {
+                sh "npm test"
+            }
+        }
+
+        stage('Build Application') {
+            steps {
+                sh "npm run build"
+            }
+        }
+
+        stage('Lint Code') {
+            steps {
+                sh "npm run lint"
+            }
+        }
+
+        stage('Build Docker Image') {
+            steps {
+                script {
+                    sh "docker build -t ${DOCKER_IMAGE} ."
+                }
+            }
+        }
+
+        stage('Push Docker Image') {
+            steps {
+                script {
+                    sh "docker push ${DOCKER_IMAGE}"
+                }
+            }
+        }
+
+        stage('Deploy to Production') {
+            steps {
+                script {
+                    // Add your deployment script here
+                    echo "Deploying ${DOCKER_IMAGE} to production..."
+                    // Example: ./deploy.sh
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            archiveArtifacts artifacts: '**/coverage/**', fingerprint: true
+            junit '**/test-results/*.xml'
+            script {
+                // Send notification to Slack
+                def status = currentBuild.currentResult ?: 'SUCCESS'
+                def color = (status == 'SUCCESS') ? 'good' : 'danger'
+                def message = "Build ${status}: <${env.BUILD_URL}|${env.JOB_NAME} #${env.BUILD_NUMBER}>"
+                
+                sh """
+                curl -X POST -H 'Content-type: application/json' --data '{
+                    "channel": "${SLACK_CHANNEL}",
+                    "username": "Jenkins",
+                    "text": "${message}",
+                    "icon_emoji": ":jenkins:",
+                    "attachments": [{
+                        "color": "${color}",
+                        "text": "${message}"
+                    }]
+                }' ${SLACK_WEBHOOK_URL}
+                """
+            }
+        }
+        success {
+            echo 'Pipeline completed successfully!'
+        }
+        failure {
+            echo 'Pipeline failed!'
+        }
+    }
+}
