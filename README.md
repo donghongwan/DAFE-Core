@@ -88,7 +88,6 @@
 [![United Nations Children's Fund (UNICEF)](https://img.shields.io/badge/UNICEF%20United%20Nations%20Children's%20Fund-4B0082?style=for-the-badge&logo=unicef&logoColor=white)](https://www.unicef.org/)
 [![Global Bank for Reconstruction and Development (IBRD)](https://img.shields.io/badge/IBRD%20International%20Bank%20for%20Reconstruction%20and%20Development-3C3C3D?style=for-the-badge&logo=ibrd&logoColor=white)](https://www.worldbank.org/en/who-we-are/ibrd)
 [![Development Bank of Latin America (CAF)](https://img.shields.io/badge/CAF%20Development%20Bank%20of%20Latin%20America-0072B1?style=for-the-badge&logo=caf&logoColor=white)](https://www.caf.com/en/)
-
 [![European Bank for Reconstruction and Development (EBRD)](https://img.shields.io/badge/EBRD%20European%20Bank%20for%20Reconstruction%20and%20Development-FF4F00?style=for-the-badge&logo=ebrd&logoColor=white)](https://www.ebrd.com/)
 [![International Monetary Fund (IMF) Training](https://img.shields.io/badge/IMF%20Training-00A3E0?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/en/Capacity-Development/Training)
 [![Global Environment Facility (GEF)](https://img.shields.io/badge/GEF%20Global%20Environment%20Facility-4B0082?style=for-the-badge&logo=gef&logoColor=white)](https://www.thegef.org/)
@@ -108,6 +107,16 @@
 [![International Telecommunication Union (ITU)](https://img.shields.io/badge/ITU%20International%20Telecommunication%20Union-00A3E0?style=for-the-badge&logo=itu&logoColor=white)](https://www.itu.int/)
 [![World Meteorological Organization (WMO)](https://img.shields.io/badge/WMO%20World%20Meteorological%20Organization-4B0082?style=for-the-badge&logo=wmo&logoColor=white)](https://public.wmo.int/en)
 [![United Nations Educational, Scientific and Cultural Organization (UNESCO)](https://img.shields.io/badge/UNESCO%20United%20Nations%20Educational%2C%20Scientific%20and%20Cultural%20Organization-3C3C3D?style=for-the-badge&logo=unesco&logoColor=white)](https://en.unesco.org/)
+[![African Development Bank (AfDB)](https://img.shields.io/badge/AfDB%20African%20Development%20Bank-0072B1?style=for-the-badge&logo=afdb&logoColor=white)](https://www.afdb.org/)
+[![Asian Development Bank (ADB)](https://img.shields.io/badge/ADB%20Asian%20Development%20Bank-FF4F00?style=for-the-badge&logo=adb&logoColor=white)](https://www.adb.org/)
+[![International Finance Corporation (IFC)](https://img.shields.io/badge/IFC%20International%20Finance%20Corporation-00A3E0?style=for-the-badge&logo=ifc&logoColor=white)](https://www.ifc.org/)
+[![Global Alliance for Vaccines and Immunization (GAVI)](https://img.shields.io/badge/GAVI%20Global%20Alliance%20for%20Vaccines%20and%20Immunization-4B0082?style=for-the-badge&logo=gavi&logoColor=white)](https://www.gavi.org/)
+[![International Atomic Energy Agency (IAEA)](https://img.shields.io/badge/IAEA%20International%20Atomic%20Energy%20Agency-3C3C3D?style=for-the-badge&logo=iaea&logoColor=white)](https://www.iaea.org/)
+[![World Bank Group (WBG)](https://img.shields.io/badge/WBG%20World%20Bank%20Group-0072B1?style=for-the-badge&logo=wbg&logoColor=white)](https://www.worldbank.org/)
+[![International Maritime Organization (IMO)](https://img.shields.io/badge/IMO%20International%20Maritime%20Organization-FF4F00?style=for-the-badge&logo=imo&logoColor=white)](https://www.imo.org/)
+[![Organisation for Economic Co-operation and Development (OECD)](https://img.shields.io/badge/OECD%20Organisation%20for%20Economic%20Co--operation%20and%20Development-00A3E0?style=for-the-badge&logo=oecd&logoColor=white)](https://www.oecd.org/)
+[![United Nations Conference on Trade and Development (UNCTAD)](https://img.shields.io/badge/UNCTAD%20United%20Nations%20Conference%20on%20Trade%20and%20Development-4B0082?style=for-the-badge&logo=unctad&logoColor=white)](https://unctad.org/)
+[![International Criminal Court (ICC)](https://img.shields.io/badge/ICC%20International%20Criminal%20Court-3C3C3D?style=for-the-badge&logo=icc&logoColor=white)](https://www.icc-cpi.int/)
 
 # DAFE-Core
 The DAFE-Core Git repository is a central hub for the Decentralized Autonomous Financial Ecosystem (DAFE) project. It contains essential code and resources for developing and maintaining the core functionalities of the DAFE platform, including smart contracts, governance mechanisms, and integration tools for various financial services. This repository serves as the foundation for building a decentralized financial ecosystem that aims to revolutionize the cryptocurrency financial system by providing users with control over their assets, enhancing transparency, and eliminating intermediaries.
