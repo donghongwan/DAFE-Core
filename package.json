@@ -14,23 +14,23 @@
     "deploy": "hardhat run scripts/deploy.js --network <network_name>"
   },
   "dependencies": {
-    "ethers": "^5.0.0",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
-    "react-scripts": "4.0.3",
-    "axios": "^0.21.1",  // For API calls
-    "web3": "^1.5.0"     // For interacting with Ethereum
+    "ethers": "^5.7.0",  // Updated to the latest version
+    "react": "^18.2.0",   // Updated to the latest version
+    "react-dom": "^18.2.0", // Updated to the latest version
+    "react-scripts": "5.0.1", // Updated to the latest version
+    "axios": "^0.27.2",  // Updated to the latest version
+    "web3": "^1.8.0"     // Updated to the latest version
   },
   "devDependencies": {
     "@nomiclabs/hardhat-waffle": "^2.0.0",
     "@nomiclabs/hardhat-ethers": "^2.0.0",
-    "chai": "^4.3.0",
-    "eslint": "^7.0.0",
-    "jest": "^26.0.0",
-    "hardhat": "^2.0.0",
-    "@testing-library/react": "^11.0.0",
-    "@testing-library/jest-dom": "^5.0.0",
-    "dotenv": "^10.0.0"  // For environment variable management
+    "chai": "^4.3.6",    // Updated to the latest version
+    "eslint": "^8.0.0",  // Updated to the latest version
+    "jest": "^29.0.0",   // Updated to the latest version
+    "hardhat": "^2.12.0", // Updated to the latest version
+    "@testing-library/react": "^13.0.0", // Updated to the latest version
+    "@testing-library/jest-dom": "^6.0.0", // Updated to the latest version
+    "dotenv": "^16.0.0"  // Updated to the latest version
   },
   "keywords": [
     "decentralized",
@@ -41,4 +41,4 @@
   ],
   "author": "KOSASIH",
   "license": "MIT"
-}
+  }
