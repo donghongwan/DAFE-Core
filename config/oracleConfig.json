@@ -1,0 +1,16 @@
+{
+  "priceFeed": {
+    "ethUsd": {
+      "address": "0x5f4eC3Df9cbd43714fe2740f5e3616155c5B8419",  // Example address for ETH/USD price feed
+      "updateInterval": 300  // Update interval in seconds
+    },
+    "btcUsd": {
+      "address": "0xAed0c38402a5d19B4a2e9cA3c3c3c3c3c3c3c3c3",  // Example address for BTC/USD price feed
+      "updateInterval": 300  // Update interval in seconds
+    }
+  },
+  "fallback": {
+    "fallbackPrice": "2000",  // Fallback price for ETH/USD in case of oracle failure
+    "fallbackUpdateInterval": 3600  // Update interval for fallback price in seconds
+  }
+}
