@@ -1,0 +1,22 @@
+{
+  "mainnet": {
+    "rpcUrl": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "chainId": 1,
+    "explorerUrl": "https://etherscan.io/"
+  },
+  "rinkeby": {
+    "rpcUrl": "https://rinkeby.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "chainId": 4,
+    "explorerUrl": "https://rinkeby.etherscan.io/"
+  },
+  "ropsten": {
+    "rpcUrl": "https://ropsten.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "chainId": 3,
+    "explorerUrl": "https://ropsten.etherscan.io/"
+  },
+  "kovan": {
+    "rpcUrl": "https://kovan.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "chainId": 42,
+    "explorerUrl": "https://kovan.etherscan.io/"
+  }
+}
