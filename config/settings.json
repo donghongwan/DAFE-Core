@@ -1,0 +1,20 @@
+{
+  "token": {
+    "name": "TOKEN_NAME",
+    "symbol": "TKN",
+    "totalSupply": "1000000000",
+    "decimals": 18
+  },
+  "lending": {
+    "interestRate": "5",  // Annual interest rate in percentage
+    "loanToValueRatio": "75"  // Maximum loan amount as a percentage of collateral
+  },
+  "staking": {
+    "rewardRate": "10",  // Annual reward rate in percentage
+    "minimumStake": "100"  // Minimum amount required to stake
+  },
+  "governance": {
+    "quorum": "20",  // Minimum percentage of votes required for a proposal to pass
+    "votingPeriod": "7"  // Voting period in days
+  }
+}
